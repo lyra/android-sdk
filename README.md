@@ -1,5 +1,3 @@
-# Lyra Mobile SDK - Android
+# Mobile Payment SDK - Android
 
-This aim of this repository is to present the releases of Lyra SDK Mobile for Android.
-
-That will be enriched very soon :)
+This repository contains our Android Payment SDK. Please refer to your Payment Service Provider documentation for more information.
